@@ -61,6 +61,7 @@ The objective of this project is to contribute to the success of a business by u
 
 By following these steps and recommendations, be well-equipped to provide valuable insights and accurate sales forecasts that can drive strategic decision-making for the business.
 
+
 ![Power-BI-cover-e1605005439977](https://github.com/AfsalAH/Power-BI---Project---Super-Store-Sales-Dashboard/assets/145492986/c3a23a65-6948-4c60-b4c9-cccff9e331c8)
 
 
